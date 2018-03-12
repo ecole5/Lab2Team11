@@ -1,0 +1,15 @@
+Name:           nginx
+State:          RUNNING
+PID:            3042
+IP:             10.0.4.101
+IP:             10.0.4.40
+Memory use:     21.95 MiB
+KMem use:       5.23 MiB
+Link:           veth995KTH
+ TX bytes:      1.55 KiB
+ RX bytes:      5.12 KiB
+ Total bytes:   6.67 KiB
+Link:           vethE61SJS
+ TX bytes:      1.72 KiB
+ RX bytes:      4.96 KiB
+ Total bytes:   6.69 KiB
